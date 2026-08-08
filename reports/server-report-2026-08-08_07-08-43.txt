@@ -1,0 +1,16 @@
+==============================
+Linux Server Verification
+==============================
+Date: Sat Aug  8 07:08:43 UTC 2026
+
+Hostname: ip-172-31-19-137
+OS: Ubuntu 26.04 LTS
+Kernel: 7.0.0-1006-aws
+Uptime: up 17 hours, 49 minutes
+
+CPU: 100%
+RAM: 374Mi/908Mi
+Disk: 2.7G/6.7G (41%)
+
+Security Score: 100
+Rating: ★★★★★ Excellent
