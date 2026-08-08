@@ -98,13 +98,12 @@ linux-server-hardening/
 ├── docs/
 │   ├── commands.md
 │   ├── runbook.md
+|   ├── architecture.md
 │   └── screenshots/
 │
 ├── scripts/
-│   ├── secure-server.sh
-│   └── verify-server.sh
-│
-└── assets/
+    ├── secure-server.sh
+    └── verify-server.sh
 ```
 
 ---
